@@ -5,8 +5,5 @@ Python é uma linguagem de programação popular, pois sua versatilidade permite
 
 ## Material da palestra:
 
--  Introdução ao Colab:
-<a href="https://colab.research.google.com/drive/1Y_HGCyiJWQ2Dyl-rtZqwqSNBozyN87BA?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
-
 -  Introdução ao Python:
 <a href="https://colab.research.google.com/drive/1SEMppCCf4vN1NVXEUUN_6oqihktSG9nz?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
