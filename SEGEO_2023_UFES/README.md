@@ -54,7 +54,7 @@
 - Introdução ao Python:
 <a href="https://colab.research.google.com/drive/1SEMppCCf4vN1NVXEUUN_6oqihktSG9nz?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 - Introdução ao Obspy:
-<a href="https://drive.google.com/file/d/1yK35FqNoJcxAG8v_1q0ji1bcVUtLNdR7/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="https://colab.research.google.com/drive/1O3taCYAAPu1FqmvN447kNT34esrUCj1H?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
 #### Livros didáticos:
 
