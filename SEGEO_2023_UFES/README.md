@@ -17,15 +17,15 @@
 
 ### Plano de Curso:
 <p> :earth_americas: Introdução à Sismologia </p>
-> Definição de sismologia e de conceitos-chave e aplicações;
-> Tipos de ondas sísmicas (P, S e ondas de superfície);
-> Propriedades das ondas sísmicas;
-> Velocidade de propagação das ondas sísmicas.
+ - Definição de sismologia e de conceitos-chave e aplicações;
+ - Tipos de ondas sísmicas (P, S e ondas de superfície);
+ - Propriedades das ondas sísmicas;
+ - Velocidade de propagação das ondas sísmicas.
 
 <p> :globe_with_meridians: Sismicidade Global e Redes Sismográficas </p>
-> Distribuição dos terremotos no mundo;
-> Rede Sismográfica Brasileira;
-> Principais bancos de dados sismológicos globais.
+ - Distribuição dos terremotos no mundo;
+ - Rede Sismográfica Brasileira;
+ - Principais bancos de dados sismológicos globais.
 
 <p> :computer: Processamento básico de sinais em python </p>
 > Introdução ao Python;
