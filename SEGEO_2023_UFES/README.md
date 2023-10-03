@@ -9,19 +9,20 @@
 :pushpin: Apresentar a Rede Sismográfica Brasileira, os principais bancos de dados e pacotes computacionais em Python que são utilizados no processamento de dados sismológicos.
 
 ### Palestrante:
-:guardsman: Diogo Luiz de Oliveira Coelho.
+:guardsman: Diogo Luiz de Oliveira Coelho
 
 ### Aulas:
-:scroll: Teoria (1 hora)
+:scroll: Teoria (1 hora);
 
-:chart_with_downwards_trend: análise de casos (1 hora);
+:chart_with_downwards_trend: Análise de casos (1 hora);
 
 :computer: Exercícios práticos em python - pandas, obspy, análise de sinais e manipulação de tabelas (6 horas);
 
+### Data:
 :date: 03/10/2023 (manhã e tarde).
 
 ### Local:
-:school: Universidade Federal do Espírito Santo, Alegre-ES.
+:school: Universidade Federal do Espírito Santo, Campus de Alegre.
 
 ### Plano de Curso:
 :earth_americas: Introdução à Sismologia
@@ -35,7 +36,7 @@
 > - Rede Sismográfica Brasileira;
 > - Principais bancos de dados sismológicos globais.
 
-:computer: Processamento básico de sinais em python
+:computer: Processamento básico de sinais e dados sismológicos
 > - Introdução ao Python;
 > - Manipulação de formas de onda;
 > - Operações básicas de processamento;
@@ -44,6 +45,9 @@
 
 
 ### Materiais e Recursos:
+
+#### Apresentação teórica:
+- Aula: Introdução à Sismologia [link]()
 
 #### Exercícios práticos:
 
@@ -60,5 +64,5 @@
 
 #### Material Complementar:
 
-- Seismo-Live:  uma plataforma interativa de aprendizagem on-line para sismologia [link](https://seismo-live.github.io/tree/index.html)
-- Curso de Verão de 2016 do IAG-USP. [link](https://github.com/leouieda/verao2016/blob/master/)
+- Seismo-Live:  uma plataforma interativa de aprendizagem on-line para sismologia. [link](https://seismo-live.github.io/tree/index.html)
+- Curso de python: Escola de verão de 2016 do IAG-USP. [link](https://github.com/leouieda/verao2016/blob/master/)
