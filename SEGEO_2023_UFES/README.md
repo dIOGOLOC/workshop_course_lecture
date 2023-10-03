@@ -8,8 +8,8 @@
 > <p> :guardsman: Diogo Luiz de Oliveira Coelho.</p>
 
 ### Aulas:
-> <p> :mortar_board: Palestras com duração de 2 horas, incluindo teoria e análise de casos;  </p>
-> <p> :computer: Exercícios práticos com duração de 6 horas,incluindo introdução ao python, análise de sinais e manipulação de dados. </p>
+> <p> :mortar_board: Teoria e análise de casos (2 horas) </p>
+> <p> :computer: Exercícios práticos com introdução ao python, pandas, obspy, análise de sinais e manipulação de tabelas (6 horas) </p>
 > <p> :hourglass_flowing_sand: 03/10/2023 (manhã e tarde). </p>
 
 ### Local:
@@ -17,22 +17,22 @@
 
 ### Plano de Curso:
 <p> :earth_americas: Introdução à Sismologia </p>
-> <p> Definição de sismologia e de conceitos-chave e aplicações; </p>
-> <p> Tipos de ondas sísmicas (P, S e ondas de superfície);</p>
-> <p> Propriedades das ondas sísmicas;</p>
-> <p> Velocidade de propagação das ondas sísmicas.</p>
+> Definição de sismologia e de conceitos-chave e aplicações;
+> Tipos de ondas sísmicas (P, S e ondas de superfície);
+> Propriedades das ondas sísmicas;
+> Velocidade de propagação das ondas sísmicas.
 
 <p> :globe_with_meridians: Sismicidade Global e Redes Sismográficas </p>
-> <p> Distribuição dos terremotos no mundo;
-> <p> Rede Sismográfica Brasileira;
-> <p> Principais bancos de dados sismológicos globais.
+> Distribuição dos terremotos no mundo;
+> Rede Sismográfica Brasileira;
+> Principais bancos de dados sismológicos globais.
 
 <p> :computer: Processamento básico de sinais em python </p>
-> <p> Introdução ao Python; </p>
-> <p> Manipulação de formas de onda; </p>
-> <p> Operações básicas de processamento; </p>
-> <p> Espectrogramas e análise de sinais; </p>
-> <p> Visualização eficiente dos dados. </p>
+> Introdução ao Python;
+> Manipulação de formas de onda;
+> Operações básicas de processamento;
+> Espectrogramas e análise de sinais;
+> Visualização eficiente dos dados.
 
 
 ### Materiais e Recursos:
