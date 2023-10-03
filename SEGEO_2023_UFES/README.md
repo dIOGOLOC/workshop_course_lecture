@@ -47,7 +47,7 @@
 ### Materiais e Recursos:
 
 #### Apresentação teórica:
-- Aula: Introdução à Sismologia [link]()
+- Aula: Introdução à Sismologia [link](https://docs.google.com/presentation/d/1n5XNh9AxIncMKQx3_2jUJ9I43IrK-hZy5wd-8I48F5U/edit?usp=sharing)
 
 #### Exercícios práticos:
 
