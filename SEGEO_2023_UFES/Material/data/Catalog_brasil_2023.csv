@@ -1,0 +1,200 @@
+evid;origin;longitude;latitude;depth;magnitude;magnitudet;region;author;mode
+"usp2023spdb";2023-09-22T10:14:54.017Z;-73.054;-10.056;223.0;4.5;"mb";"Central Peru";"jroberto";M
+"usp2023snbz";2023-09-21T07:24:29.152Z;-42.501;-13.530;0.0;3.2;"mR";"Tanque Novo/BA";"jroberto";M
+"usp2023siys";2023-09-19T01:13:35.783Z;-48.625;-20.982;0.0;2.2;"mR";"Monte Azul Paulista/SP";"jroberto";M
+"usp2023sgkm";2023-09-17T15:45:26.552Z;-39.810;-9.974;0.0;2.7;"mR";"Uaua/BA";"jroberto";M
+"usp2023rifj";2023-09-04T09:54:58.023Z;-39.773;-9.903;0.0;2.2;"mR";"Uaua/BA";"jroberto";M
+"usp2023riex";2023-09-04T09:40:23.759Z;-39.779;-9.902;0.0;2.3;"mR";"Uaua/BA";"jroberto";M
+"usp2023rbhl";2023-08-31T15:00:48.942Z;-36.724;-9.683;0.0;1.9;"mR";"Craibas/AL";"jroberto";M
+"usp2023rbff";2023-08-31T13:53:14.884Z;-39.755;-9.783;0.0;2.2;"mR";"Uaua/BA";"jroberto";M
+"usp2023rbds";2023-08-31T13:07:24.482Z;-39.775;-9.915;0.0;2.5;"mR";"Uaua/BA";"jroberto";M
+"usp2023qvtk";2023-08-28T14:14:08.850Z;-38.225;-5.079;0.0;2.1;"mR";"Limoeiro do Norte/CE";"jroberto";M
+"usp2023qqrm";2023-08-25T19:34:39.932Z;-36.695;-9.764;0.0;2.1;"mR";"Arapiraca/AL";"jroberto";M
+"usp2023qpyc";2023-08-25T09:47:43.895Z;-39.842;-9.903;0.0;2.3;"mR";"Uaua/BA";"jroberto";M
+"usp2023qpfr";2023-08-25T00:28:17.021Z;-39.406;-3.913;0.0;1.9;"mR";"Apuiares/CE";"jroberto";M
+"usp2023qole";2023-08-24T14:07:40.808Z;-50.187;-14.216;0.0;2.9;"mR";"Nova Crixas/GO";"jroberto";M
+"usp2023qojb";2023-08-24T13:03:05.986Z;-39.931;-5.384;0.0;2.1;"mR";"Pedra Branca/CE";"jroberto";M
+"usp2023qlil";2023-08-22T21:19:39.000Z;-50.674;-24.325;0.0;2.4;"MLv";"Telemaco Borba/PR";"marcelo";M
+"usp2023pyeu";2023-08-15T16:42:48.557Z;-49.059;-13.487;0.0;2.9;"mR";"Porangatu/GO";"bruno";M
+"usp2023punq";2023-08-13T16:38:57.810Z;-38.408;-4.410;0.0;2.5;"mR";"Chorozinho/CE";"jroberto";M
+"usp2023pify";2023-08-06T23:07:11.035Z;-48.737;-19.957;0.0;2.6;"mR";"Pirajuba/MG";"jroberto";M
+"usp2023phyo";2023-08-06T19:24:06.753Z;-48.731;-19.952;0.0;2.6;"mR";"Pirajuba/MG";"jroberto";M
+"usp2023peyi";2023-08-05T03:52:38.835Z;-40.532;-11.239;0.0;2.4;"mR";"Jacobina/BA";"jroberto";M
+"usp2023pdgc";2023-08-04T05:31:40.282Z;-36.608;-9.695;0.0;2.0;"MLv";"Coite do Noia/AL";"jroberto";M
+"usp2023pbjn";2023-08-03T04:58:34.054Z;-56.969;-21.316;0.0;2.9;"mR";"Bonito/MS";"jroberto";M
+"usp2023palm";2023-08-02T16:49:57.808Z;-40.757;-13.692;0.0;2.5;"mR";"Contendas do Sincora/BA";"jroberto";M
+"usp2023oxvx";2023-08-01T06:41:27.000Z;-48.690;-21.080;0.0;1.1;"MLv";"Pirangi/SP";"marcelo";M
+"usp2023ovms";2023-07-30T23:46:59.256Z;-45.223;-19.334;0.0;3.2;"mR";"Martinho Campos/MG";"bruno";M
+"usp2023oogs";2023-07-27T00:47:14.117Z;-38.462;-4.433;0.0;2.6;"mR";"Chorozinho/CE";"jroberto";M
+"usp2023ohii";2023-07-23T05:39:06.909Z;-50.331;-6.441;0.0;2.9;"mR";"Agua Azul do Norte/PA";"jroberto";M
+"usp2023oejt";2023-07-21T14:58:22.067Z;-36.716;-9.851;0.0;1.8;"mR";"Lagoa da Canoa/AL";"jroberto";M
+"usp2023ocwp";2023-07-20T19:11:00.000Z;-50.010;-4.000;0.0;3.4;"mR";"Novo Repartimento/PA";"marcelo";M
+"usp2023oasz";2023-07-19T15:05:17.995Z;-36.312;-8.611;0.0;2.4;"mR";"Lajedo/PE";"jroberto";M
+"usp2023nzmp";2023-07-18T22:44:11.083Z;-39.840;-9.909;0.0;2.3;"mR";"Uaua/BA";"jroberto";M
+"usp2023nvdw";2023-07-16T13:45:58.816Z;-35.711;-9.473;0.0;1.8;"mR";"Rio Largo/AL";"jroberto";M
+"usp2023nuow";2023-07-16T06:12:13.001Z;-45.597;-14.542;0.0;2.3;"mR";"Mambai/GO";"jroberto";M
+"usp2023ntxp";2023-07-15T21:28:30.548Z;-56.304;-20.462;0.0;1.8;"mR";"Miranda/MS";"jroberto";M
+"usp2023nnxp";2023-07-12T14:39:46.093Z;-38.922;-6.255;0.0;2.0;"mR";"Oros/CE";"jroberto";M
+"usp2023nfdn";2023-07-07T19:25:35.923Z;-49.899;-4.483;0.0;2.7;"mR";"Novo Repartimento/PA";"jroberto";M
+"usp2023ndyi";2023-07-07T03:40:14.561Z;-73.975;-8.297;181.0;4.5;"mB";"Peru-Brazil Border Region";"cleusa";M
+"usp2023mzhc";2023-07-04T14:24:56.019Z;-38.370;-4.770;0.0;2.1;"mR";"Ibicuitinga/CE";"jroberto";M
+"usp2023mxru";2023-07-03T17:32:42.387Z;-51.069;-23.266;0.0;2.6;"MLv";"Ibipora/PR";"jroberto";M
+"usp2023mqeu";2023-06-29T15:01:07.736Z;-44.842;-16.386;0.0;2.1;"mR";"Ubai/MG";"jroberto";M
+"usp2023mmqr";2023-06-27T16:29:15.869Z;-40.631;-4.169;0.0;1.7;"mR";"Reriutaba/CE";"jroberto";M
+"usp2023mfjt";2023-06-23T17:01:45.084Z;-50.089;-6.427;0.0;3.3;"mR";"Canaa dos Carajas/PA";"jroberto";M
+"usp2023ment";2023-06-23T05:55:11.397Z;-39.523;-10.076;0.0;2.2;"mR";"Uaua/BA";"jroberto";M
+"usp2023mekt";2023-06-23T04:25:03.985Z;-50.091;-6.651;0.0;3.0;"mR";"Canaa dos Carajas/PA";"jroberto";M
+"usp2023meku";2023-06-23T04:24:57.686Z;-50.012;-6.629;0.0;2.5;"MLv";"Canaa dos Carajas/PA";"jroberto";M
+"usp2023mekv";2023-06-23T04:24:33.107Z;-50.038;-6.641;0.0;2.3;"MLv";"Canaa dos Carajas/PA";"jroberto";M
+"usp2023lxfv";2023-06-19T05:57:50.084Z;-48.527;-20.867;0.0;2.5;"mR";"Reg. de Bebedouro/SP";"jroberto";M
+"usp2023lxax";2023-06-19T03:29:11.888Z;-48.610;-20.990;0.0;2.5;"mR";"Monte Azul Paulista/SP";"jroberto";M
+"usp2023lwon";2023-06-18T21:13:45.909Z;-48.617;-21.046;0.0;2.1;"mR";"Pirangi/SP";"marcelo";M
+"usp2023lstw";2023-06-16T19:23:18.005Z;-35.800;-9.423;0.0;2.1;"mR";"Messias/AL";"jroberto";M
+"usp2023lsea";2023-06-16T11:22:05.568Z;-47.399;-24.498;0.0;4.0;"mR";"Região Miracatu Iguape/SP";"bruno";M
+"usp2023lqzp";2023-06-15T20:00:08.035Z;-42.998;-15.889;0.0;2.5;"mR";"Porteirinha/MG";"jroberto";M
+"usp2023loxs";2023-06-14T16:46:41.523Z;-40.679;-13.627;0.0;2.1;"mR";"Maracas/BA";"jroberto";M
+"usp2023lgee";2023-06-09T21:49:17.611Z;-59.354;-21.098;0.0;2.8;"mR";"Paraguay";"jroberto";M
+"usp2023lfxn";2023-06-09T18:26:54.076Z;-40.221;-4.281;0.0;1.5;"mR";"Santa Quiteria/CE";"jroberto";M
+"usp2023lfib";2023-06-09T10:39:14.000Z;-44.184;-19.519;0.0;2.3;"mR";"Prudente de Morais/MG";"marcelo";M
+"usp2023kwto";2023-06-04T18:13:24.541Z;-60.048;-16.444;0.0;3.6;"mb";"Central Bolivia";"jroberto";M
+"usp2023kuhk";2023-06-03T09:49:07.146Z;-40.232;-8.769;0.0;2.3;"mR";"Lagoa Grande/PE";"jroberto";M
+"usp2023krlr";2023-06-01T20:34:35.872Z;-44.715;-21.059;0.0;2.2;"mR";"Bom Sucesso/MG";"bruno";M
+"usp2023knwj";2023-05-30T21:25:24.051Z;-51.384;-14.198;0.0;2.5;"mR";"Cocalinho/MT";"jroberto";M
+"usp2023kmuo";2023-05-30T07:22:27.654Z;-61.544;-12.465;0.0;2.5;"mR";"Parecis/RO";"jroberto";M
+"usp2023klog";2023-05-29T15:02:25.082Z;-40.082;-7.879;0.0;2.1;"mR";"Ouricuri/PE";"jroberto";M
+"usp2023kikt";2023-05-27T21:52:54.829Z;-44.296;-10.546;0.0;2.4;"mR";"Julio Borges/PI";"jroberto";M
+"usp2023khts";2023-05-27T13:15:41.153Z;-48.625;-21.093;0.0;2.2;"mR";"Pirangi/SP";"bruno";M
+"usp2023khdp";2023-05-27T05:07:37.534Z;-40.575;-11.277;0.0;2.3;"mR";"Jacobina/BA";"jroberto";M
+"usp2023khcn";2023-05-27T04:34:35.208Z;-48.616;-21.058;0.0;2.3;"mR";"Pirangi/SP";"bruno";M
+"usp2023khah";2023-05-27T03:27:50.000Z;-60.397;-0.384;0.0;4.1;"mR";"Rorainopolis/RR";"marcelo";M
+"usp2023kgaq";2023-05-26T14:29:34.406Z;-36.117;-8.347;0.0;2.1;"mR";"Sao Caitano/PE";"jroberto";M
+"usp2023kdrt";2023-05-25T07:43:48.994Z;-40.846;-2.975;0.0;1.9;"mR";"Camocim/CE";"jroberto";M
+"usp2023kdmb";2023-05-25T04:51:26.492Z;-45.003;-13.274;0.0;3.2;"mR";"Correntina/BA";"jroberto";M
+"usp2023kcsc";2023-05-24T18:45:58.548Z;-39.941;-7.778;0.0;2.2;"mR";"Bodoco/PE";"jroberto";M
+"usp2023kapb";2023-05-23T14:57:58.837Z;-40.636;-4.109;0.0;2.3;"MLv";"Reriutaba/CE";"jroberto";M
+"usp2023jzyn";2023-05-23T06:36:54.183Z;-45.009;-13.268;0.0;2.7;"mR";"Correntina/BA";"jroberto";M
+"usp2023jzje";2023-05-22T22:51:10.202Z;-43.455;-11.748;0.0;2.1;"mR";"Morpara/BA";"jroberto";M
+"usp2023jrpy";2023-05-18T17:10:59.642Z;-40.427;-13.447;0.0;2.0;"mR";"Maracas/BA";"jroberto";M
+"usp2023jmrf";2023-05-16T00:08:56.178Z;-42.967;-20.193;0.0;2.1;"mR";"Dom Silverio/MG";"jroberto";M
+"usp2023jmre";2023-05-16T00:07:25.586Z;-44.279;-13.505;0.0;2.8;"mR";"Rg. de Jaborandi/BA";"jroberto";M
+"usp2023jhvi";2023-05-13T08:33:10.924Z;-57.753;-11.451;0.0;2.7;"mR";"Juara/MT";"jroberto";M
+"usp2023jcpm";2023-05-10T11:55:13.841Z;-48.610;-20.966;0.0;2.3;"mR";"MonteA.Paulista rg.da zona rural/SP";"jroberto";M
+"usp2023izkq";2023-05-08T18:03:15.369Z;-40.540;-11.190;0.0;2.3;"mR";"Jacobina/BA";"jroberto";M
+"usp2023ivdo";2023-05-06T09:56:59.000Z;-48.480;-21.270;0.0;1.0;"MLv";"Monte Alto/SP";"marcelo";M
+"usp2023isgw";2023-05-04T20:12:21.313Z;-35.830;-9.412;0.0;2.1;"mR";"Messias/AL";"jroberto";M
+"usp2023isdw";2023-05-04T18:41:11.527Z;-51.448;-14.227;0.0;2.5;"mR";"Nova Nazare/MT";"jroberto";M
+"usp2023isbu";2023-05-04T17:38:11.000Z;-57.456;-26.510;0.0;3.0;"mR";"Paraguay";"marcelo";M
+"usp2023iryz";2023-05-04T16:13:23.873Z;-44.479;-20.139;0.0;2.2;"mR";"Itatiaiucu/MG";"jroberto";M
+"usp2023irrq";2023-05-04T12:30:31.000Z;-48.680;-21.090;0.0;1.2;"MLv";"Pirangi/SP";"marcelo";M
+"usp2023iqzg";2023-05-04T03:13:38.862Z;-41.259;-17.464;0.0;1.7;"mR";"Novo Oriente de Minas/MG";"jroberto";M
+"usp2023iqly";2023-05-03T20:57:58.936Z;-44.243;-19.502;0.0;2.1;"mR";"Sete Lagoas/MG";"jroberto";M
+"usp2023iqib";2023-05-03T18:32:21.650Z;-39.113;-13.957;0.0;2.1;"mR";"Camamu/BA";"jroberto";M
+"usp2023ipgr";2023-05-03T04:41:29.031Z;-48.795;-20.045;0.0;2.4;"mR";"Rg. da Divisa Frutal/Planura-MG";"jroberto";M
+"usp2023iows";2023-05-02T23:40:10.181Z;-39.067;-4.152;0.0;1.9;"mR";"Caridade/CE";"jroberto";M
+"usp2023iohg";2023-05-02T15:51:17.209Z;-50.638;-14.012;0.0;3.0;"mR";"Nova Crixas/GO";"jroberto";M
+"usp2023imje";2023-05-01T14:33:23.192Z;-50.170;-16.285;0.0;2.3;"mR";"Adelandia/GO";"jroberto";M
+"usp2023imgy";2023-05-01T13:26:08.146Z;-38.933;-4.098;0.0;2.2;"mR";"Palmacia/CE";"jroberto";M
+"usp2023ikjd";2023-04-30T12:16:04.697Z;-40.877;-2.851;0.0;2.1;"mR";"Camocim/CE";"jroberto";M
+"usp2023iirs";2023-04-29T14:19:06.725Z;-49.754;-24.833;0.0;2.3;"mR";"Castro/PR";"jroberto";M
+"usp2023iefu";2023-04-27T03:44:54.805Z;-39.899;-9.869;0.0;2.3;"mR";"Uaua/BA";"jroberto";M
+"usp2023ibtv";2023-04-25T19:26:47.163Z;-39.484;-3.882;0.0;2.3;"mR";"Apuiares/CE";"jroberto";M
+"usp2023iafm";2023-04-24T23:03:38.000Z;-48.480;-21.270;0.0;1.0;"MLv";"Monte Alto/SP";"marcelo";M
+"usp2023iaaz";2023-04-24T20:46:21.812Z;-52.585;-31.800;0.0;2.2;"mR";"Capao do Leao/RS";"jroberto";M
+"usp2023hzyb";2023-04-24T19:18:18.000Z;-48.604;-20.973;0.0;1.8;"MLv";"MonteA.Paulista/rg.Zona Rural";"jroberto";M
+"usp2023hzpi";2023-04-24T14:54:05.952Z;-45.614;-20.333;0.0;2.8;"mR";"Pains/MG";"jroberto";M
+"usp2023hzly";2023-04-24T13:10:28.611Z;-39.190;-4.236;0.0;2.2;"mR";"Caridade/CE";"jroberto";M
+"usp2023hzda";2023-04-24T08:41:01.628Z;-39.034;-4.135;0.0;1.8;"mR";"Pacoti/CE";"jroberto";M
+"usp2023hxei";2023-04-23T07:04:15.830Z;-39.075;-4.135;0.0;1.7;"mR";"Caridade/CE";"jroberto";M
+"usp2023hwkg";2023-04-22T20:55:36.887Z;-41.130;-13.484;0.0;2.2;"mR";"Ibicoara/BA";"jroberto";M
+"usp2023hvic";2023-04-22T06:42:10.244Z;-43.834;-20.664;0.0;2.3;"mR";"Conselheiro Lafaiete/MG";"jroberto";M
+"usp2023htmn";2023-04-21T06:40:00.407Z;-47.845;-3.795;0.0;3.1;"mR";"Ulianopolis/PA";"jroberto";M
+"usp2023htdq";2023-04-21T02:10:37.871Z;-48.798;-20.052;0.0;2.7;"mR";"Rg. da Divisa Frutal/Planura-MG";"jroberto";M
+"usp2023hsld";2023-04-20T16:49:19.866Z;-43.768;-20.602;0.0;2.4;"mR";"Conselheiro Lafaiete/MG";"jroberto";M
+"usp2023hrvh";2023-04-20T08:49:31.580Z;-48.841;-20.035;0.0;2.6;"mR";"Frutal/MG";"jroberto";M
+"usp2023honv";2023-04-18T13:38:23.435Z;-36.664;-9.649;0.0;2.1;"MLv";"Coite do Noia/AL";"jroberto";M
+"usp2023hlyi";2023-04-17T03:32:37.871Z;-45.170;-18.826;0.0;1.9;"mR";"Felixlandia/MG";"jroberto";M
+"usp2023hjuw";2023-04-15T23:31:00.000Z;-48.660;-21.090;0.0;1.1;"MLv";"Pirangi/SP";"marcelo";M
+"usp2023hjlv";2023-04-15T18:56:32.288Z;-41.185;-18.420;0.0;1.7;"mR";"Tipiti-Ataleia/MG";"jroberto";M
+"usp2023hidl";2023-04-15T01:34:55.466Z;-48.606;-21.093;0.0;1.2;"MLv";"Pirangi/SP";"jroberto";M
+"usp2023hhup";2023-04-14T21:06:56.882Z;-48.613;-20.962;0.0;2.0;"mR";"MonteA.Paulista/rg.Zona Rural";"jroberto";M
+"usp2023hhck";2023-04-14T11:54:47.702Z;-55.952;-17.607;0.0;3.1;"mR";"Nova Esperança/MS";"jroberto";M
+"usp2023hezl";2023-04-13T08:08:38.829Z;-40.222;-8.987;0.0;1.9;"mR";"Lagoa Grande/PE";"jroberto";M
+"usp2023hena";2023-04-13T01:52:23.742Z;-40.275;-8.956;0.0;2.2;"mR";"Lagoa Grande/PE";"jroberto";M
+"usp2023gzjh";2023-04-10T06:18:30.104Z;-44.308;-19.433;0.0;2.1;"mR";"Sete Lagoas/MG";"jroberto";M
+"usp2023gxuf";2023-04-09T09:33:39.351Z;-40.486;-3.618;0.0;1.6;"mR";"Alcantaras/CE";"jroberto";M
+"usp2023gwvk";2023-04-08T21:01:37.082Z;-48.593;-20.976;0.0;2.4;"mR";"MonteA.Paulista/rg.zona rural";"jroberto";M
+"usp2023gwss";2023-04-08T19:40:01.051Z;-48.593;-20.976;0.0;2.2;"mR";"MonteA.Paulista/rg.zona rural";"jroberto";M
+"usp2023gvpp";2023-04-08T04:56:53.146Z;-51.218;-23.089;0.0;2.1;"mR";"Bela Vista do Paraiso/PR";"jroberto";M
+"usp2023gvpn";2023-04-08T04:55:07.861Z;-51.224;-23.091;0.0;1.8;"mR";"Bela Vista do Paraiso/PR";"jroberto";M
+"usp2023guqn";2023-04-07T16:16:37.616Z;-48.511;-21.275;0.0;2.1;"mR";"Monte Alto/SP";"cleusa";M
+"usp2023gstj";2023-04-06T15:27:03.872Z;-40.581;-3.827;0.0;1.9;"mR";"Carire/CE";"jroberto";M
+"usp2023gsbm";2023-04-06T06:24:19.393Z;-48.506;-21.343;0.0;1.7;"mR";"Monte Alto/SP";"bruno";M
+"usp2023grlf";2023-04-05T22:11:04.356Z;-48.537;-21.314;0.0;2.1;"mR";"Monte Alto/SP";"bruno";M
+"usp2023grdv";2023-04-05T18:27:54.784Z;-48.516;-21.249;0.0;2.3;"mR";"Monte Alto/SP";"bruno";M
+"usp2023gqfu";2023-04-05T06:19:28.719Z;-71.617;-9.462;560.0;5.1;"mb";"Peru-Brazil Border Region";"jroberto";M
+"usp2023gkvt";2023-04-02T07:33:49.943Z;-48.599;-20.969;0.0;2.2;"mR";"MonteA.Paulista/rg.zona rural";"jroberto";M
+"usp2023gjog";2023-04-01T14:38:45.744Z;-48.609;-20.984;0.0;2.3;"mR";"MonteA.Paulista/rg.zona rural";"jroberto";M
+"usp2023gjfn";2023-04-01T10:13:37.835Z;-39.820;-14.097;0.0;2.1;"mR";"Aiquara/BA";"jroberto";M
+"usp2023ggbh";2023-03-30T16:40:58.003Z;-36.415;-8.816;0.0;2.3;"mR";"Sao Joao/PE";"jroberto";M
+"usp2023gcgy";2023-03-28T14:59:09.008Z;-36.743;-9.710;0.0;2.0;"mR";"Arapiraca/AL";"jroberto";M
+"usp2023fuyl";2023-03-24T14:44:32.077Z;-40.516;-3.827;0.0;1.6;"mR";"Carire/CE";"jroberto";M
+"usp2023fuxs";2023-03-24T14:23:14.860Z;-48.384;-20.157;0.0;2.4;"mR";"Guaira/SP";"jroberto";M
+"usp2023fuab";2023-03-24T02:26:07.000Z;-48.480;-21.280;0.0;2.1;"M";"Monte Alto/SP";"marcelo";M
+"usp2023fodx";2023-03-20T21:33:52.000Z;-38.782;-13.399;0.0;2.8;"mR";"Plataf.Cont.rg. de Valença/BA";"jroberto";M
+"usp2023fljh";2023-03-19T08:51:37.605Z;-41.728;-13.156;0.0;2.9;"mR";"Piata/BA";"jroberto";M
+"usp2023fkun";2023-03-19T01:23:37.671Z;-44.362;-3.439;0.0;2.6;"mR";"Itapecuru Mirim/MA";"jroberto";M
+"usp2023fjdo";2023-03-18T03:41:49.452Z;-73.101;-10.102;56.0;4.0;"mb";"Central Peru";"jroberto";M
+"usp2023fimo";2023-03-17T19:06:26.381Z;-39.325;-11.359;0.0;2.2;"mR";"Queimadas/BA";"jroberto";M
+"usp2023fhlt";2023-03-17T05:34:07.160Z;-40.532;-3.565;0.0;1.4;"mR";"Alcantaras/CE";"jroberto";M
+"usp2023fhdb";2023-03-17T01:11:07.973Z;-40.530;-3.236;0.0;2.3;"MLv";"Uruoca/CE";"jroberto";M
+"usp2023fcrv";2023-03-14T14:57:18.248Z;-48.665;-21.063;0.0;2.2;"mR";"Pirangi/SP";"jroberto";M
+"usp2023fcfe";2023-03-14T08:34:12.000Z;-48.665;-21.091;0.0;0.8;"MLv";"Pirangi/SP";"jroberto";M
+"usp2023fcbr";2023-03-14T06:47:20.528Z;-48.508;-21.292;0.0;2.0;"mR";"Monte Alto/SP";"bruno";M
+"usp2023fcbq";2023-03-14T06:46:21.151Z;-48.486;-21.308;0.0;2.2;"mR";"Monte Alto/SP";"bruno";M
+"usp2023exnz";2023-03-11T19:19:43.801Z;-39.521;-3.918;0.0;2.6;"mR";"Tejucuoca/CE";"jroberto";M
+"usp2023evko";2023-03-10T15:20:29.857Z;-39.425;-10.791;0.0;2.2;"mR";"Nordestina/BA";"jroberto";M
+"usp2023evjz";2023-03-10T15:02:54.017Z;-36.806;-9.704;0.0;2.3;"MLv";"Craibas/AL";"jroberto";M
+"usp2023elly";2023-03-05T04:40:01.936Z;-43.125;-19.059;0.0;2.1;"mR";"Carmesia/MG";"jroberto";M
+"usp2023eezz";2023-03-01T15:48:14.838Z;-40.469;-3.677;0.0;2.4;"mR";"Alcantaras/CE";"jroberto";M
+"usp2023ediq";2023-02-28T17:54:21.880Z;-44.229;-13.481;0.0;2.8;"mR";"Sao Felix do Coribe/BA";"jroberto";M
+"usp2023ebwf";2023-02-27T22:30:27.039Z;-44.247;-13.495;0.0;3.4;"mR";"Sao Felix do Coribe/BA";"marcelo";M
+"usp2023ebno";2023-02-27T18:07:52.987Z;-40.662;-3.808;0.0;1.9;"mR";"Mucambo/CE";"jroberto";M
+"usp2023easc";2023-02-27T07:17:09.083Z;-40.544;-3.589;0.0;1.8;"mR";"Alcantaras/CE";"jroberto";M
+"usp2023dzxo";2023-02-26T20:54:44.068Z;-38.343;-12.695;0.0;1.9;"mR";"Camacari/BA";"jroberto";M
+"usp2023dydb";2023-02-25T21:24:24.822Z;-40.554;-16.368;0.0;2.4;"mR";"Rubim/MG";"jroberto";M
+"usp2023duta";2023-02-24T00:56:29.012Z;-40.596;-11.206;0.0;2.4;"mR";"Jacobina/BA";"jroberto";M
+"usp2023dqqu";2023-02-21T19:16:29.627Z;-39.004;-14.113;0.0;2.2;"mR";"Marau/BA";"jroberto";M
+"usp2023dqqq";2023-02-21T19:11:20.536Z;-38.975;-14.080;0.0;2.1;"mR";"Marau/BA";"jroberto";M
+"usp2023dgzn";2023-02-16T12:18:37.000Z;-40.546;-16.457;0.0;3.4;"mR";"Rubim/MG";"marcelo";M
+"usp2023dfjt";2023-02-15T15:12:31.825Z;-36.562;-10.083;0.0;2.3;"mR";"Igreja Nova/AL";"jroberto";M
+"usp2023dfhp";2023-02-15T14:07:14.026Z;-36.473;-10.168;0.0;2.5;"mR";"Penedo/AL";"jroberto";M
+"usp2023dfej";2023-02-15T12:29:45.037Z;-36.547;-10.095;0.0;2.0;"mR";"Igreja Nova/AL";"jroberto";M
+"usp2023dcca";2023-02-13T19:53:58.772Z;-40.513;-11.260;0.0;1.9;"mR";"Jacobina/BA";"jroberto";M
+"usp2023ctzh";2023-02-09T09:26:20.037Z;-35.130;-5.038;0.0;2.2;"mR";"Plataf.Cont.-Rio do Fogo/RN";"jroberto";M
+"usp2023crrs";2023-02-08T03:19:48.898Z;-36.050;-8.361;0.0;2.0;"mR";"Sao Caitano/PE";"jroberto";M
+"usp2023cqgz";2023-02-07T08:46:31.817Z;-44.583;-22.140;0.0;2.5;"mR";"Alagoa/MG";"jroberto";M
+"usp2023cnyv";2023-02-06T02:23:26.782Z;-48.631;-21.095;0.0;2.4;"mR";"Pirangi/SP";"jroberto";M
+"usp2023cnns";2023-02-05T20:45:37.362Z;-40.517;-11.278;0.0;2.4;"mR";"Jacobina/BA";"jroberto";M
+"usp2023ckog";2023-02-04T05:37:37.085Z;-48.496;-21.268;0.0;2.3;"mR";"Monte Alto/SP";"jroberto";M
+"usp2023ciqc";2023-02-03T04:17:54.425Z;-60.051;-16.465;0.0;3.2;"mR";"Central Bolivia";"jroberto";M
+"usp2023cgai";2023-02-01T18:03:27.753Z;-40.207;-3.974;0.0;2.2;"mR";"Forquilha/CE";"jroberto";M
+"usp2023cett";2023-02-01T01:35:35.559Z;-46.699;-21.669;0.0;2.9;"mR";"Divinolandia/SP";"bruno";M
+"usp2023ccsh";2023-01-30T22:35:18.952Z;-50.181;-21.234;0.0;2.4;"mR";"Brejo Alegre/SP";"jroberto";M
+"usp2023cbil";2023-01-30T04:28:48.821Z;-56.549;-18.962;0.0;3.2;"mR";"Ladario/MS";"jroberto";M
+"usp2023burp";2023-01-26T13:08:32.826Z;-48.591;-20.989;0.0;2.2;"mR";"MonteA.Paulista/rg.zona rural";"jroberto";M
+"usp2023bpis";2023-01-23T14:58:14.423Z;-45.659;-20.343;0.0;2.6;"mR";"Pains/MG";"jroberto";M
+"usp2023bozo";2023-01-23T10:20:42.000Z;-48.512;-21.282;0.0;2.0;"mR";"Monte Alto/SP";"jroberto";M
+"usp2023boke";2023-01-23T02:34:49.219Z;-50.072;-6.401;0.0;3.9;"mR";"Canaa dos Carajas/PA";"marcelo";M
+"usp2023bkzx";2023-01-21T05:58:28.930Z;-44.127;-21.090;0.0;1.9;"mR";"Tiradentes/MG";"cleusa";M
+"usp2023bkxo";2023-01-21T04:48:12.039Z;-44.176;-21.010;0.0;2.5;"mR";"Tiradentes/MG";"marcelo";M
+"usp2023bkwg";2023-01-21T04:08:27.000Z;-44.125;-21.096;0.0;3.0;"mR";"Tiradentes/MG";"marcelo";M
+"usp2023bdzv";2023-01-17T09:59:25.165Z;-71.253;-8.095;639.0;4.4;"mb";"Reg. de Tarauacá/AC";"cleusa";M
+"usp2023bcti";2023-01-16T17:33:54.743Z;-40.447;-11.316;0.0;2.4;"MLv";"Jacobina/BA";"jroberto";M
+"usp2023avrv";2023-01-12T20:51:50.720Z;-40.148;-3.920;0.0;2.1;"mR";"Forquilha/CE";"jroberto";M
+"usp2023avgv";2023-01-12T15:18:18.078Z;-47.786;-17.969;0.0;2.4;"mR";"Catalao/GO";"jroberto";M
+"usp2023asbq";2023-01-10T21:15:55.816Z;-56.207;-20.396;0.0;2.1;"mR";"Miranda/MS";"jroberto";M
+"usp2023apuo";2023-01-09T15:26:08.681Z;-40.293;-7.622;0.0;2.2;"mR";"Trindade/PE";"jroberto";M
+"usp2023akhc";2023-01-06T14:56:07.770Z;-39.324;-10.971;0.0;2.0;"mR";"Nordestina/BA";"jroberto";M
+"usp2023ajns";2023-01-06T05:09:22.841Z;-39.824;-9.855;0.0;2.4;"mR";"Uaua/BA";"jroberto";M
+"usp2023agjs";2023-01-04T11:42:47.000Z;-43.980;-19.731;0.0;2.7;"mR";"Sao Jose da Lapa/MG";"marcelo";M
+"usp2023aaav";2023-01-01T00:24:38.942Z;-46.610;-25.363;0.0;2.6;"mR";"Plataf.Continental SP/PR";"jroberto";M
