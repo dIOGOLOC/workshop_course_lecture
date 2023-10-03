@@ -1,0 +1,26 @@
+evid;origin;longitude;latitude;depth;magnitude;magnitudet;region;author;mode
+"usp2023tfch";2023-10-01T04:00:23.082Z;106.773;-6.916;110.0;5.1;"Mw(mB)";"Java, Indonesia";"cleusa";M
+"usp2023tdjf";2023-09-30T05:14:07.954Z;-67.038;-24.075;195.0;4.1;"mb";"Chile-Argentina Border Region";"cleusa";M
+"usp2023tcpd";2023-09-29T19:05:46.738Z;-30.016;38.237;10.0;4.9;"mb";"Azores Islands, Portugal";"cleusa";M
+"usp2023tbhd";2023-09-29T01:54:19.007Z;-68.688;-20.996;108.0;4.8;"mb";"Chile-Bolivia Border Region";"cleusa";M
+"usp2023taud";2023-09-28T19:21:16.105Z;152.942;-5.360;49.0;5.6;"mB";"New Britain Region, P.N.G.";"cleusa";M
+"usp2023taqu";2023-09-28T17:40:04.426Z;148.630;44.318;10.0;6.0;"mB";"Kuril Islands";"cleusa";M
+"usp2023takw";2023-09-28T14:40:25.676Z;167.787;-15.599;127.0;5.2;"mB";"Vanuatu Islands";"cleusa";M
+"usp2023szih";2023-09-28T00:14:02.040Z;-25.802;0.273;10.0;4.7;"Mw(mB)";"Central Mid Atlantic Ridge";"cleusa";M
+"usp2023sxeg";2023-09-26T19:56:05.979Z;-71.675;-27.920;41.0;4.7;"mb";"Near Coast of Northern Chile";"cleusa";M
+"usp2023swja";2023-09-26T09:11:14.954Z;-68.943;-20.209;95.0;4.9;"mb";"Chile-Bolivia Border Region";"cleusa";M
+"usp2023svuc";2023-09-26T01:39:41.683Z;127.777;4.504;90.0;5.3;"mb";"Talaud Islands, Indonesia";"cleusa";M
+"usp2023sudq";2023-09-25T04:12:20.031Z;-28.281;-55.876;147.0;4.6;"mb";"South Sandwich Islands Region";"cleusa";M
+"usp2023ssbp";2023-09-24T00:52:56.634Z;-67.778;-27.467;195.0;4.5;"Mw(mB)";"Catamarca Province, Argentina";"cleusa";M
+"usp2023srsl";2023-09-23T20:16:31.049Z;-68.819;-21.287;124.0;4.5;"mb";"Chile-Bolivia Border Region";"cleusa";M
+"usp2023srjs";2023-09-23T15:51:20.875Z;170.612;-22.070;10.0;5.1;"mb";"Southeast of Loyalty Islands";"cleusa";M
+"usp2023sqis";2023-09-23T02:12:58.637Z;-69.385;-19.896;105.0;4.4;"mb";"Northern Chile";"cleusa";M
+"usp2023sqio";2023-09-23T02:08:58.056Z;-67.451;-24.473;171.0;4.2;"mb";"Chile-Argentina Border Region";"cleusa";M
+"usp2023spxb";2023-09-22T20:19:47.879Z;-68.583;-22.107;128.0;4.4;"mb";"Northern Chile";"cleusa";M
+"usp2023sppd";2023-09-22T16:19:31.790Z;167.174;-15.058;40.0;5.3;"mb";"Vanuatu Islands";"cleusa";M
+"usp2023spmm";2023-09-22T14:59:14.752Z;129.932;-7.299;155.0;5.8;"mB";"Banda Sea";"cleusa";M
+"usp2023spdb";2023-09-22T10:14:54.017Z;-73.054;-10.056;223.0;4.5;"mb";"Central Peru";"jroberto";M
+"usp2023spau";2023-09-22T09:04:42.175Z;-161.577;55.627;10.0;5.1;"mb";"Alaska Peninsula";"cleusa";M
+"usp2023soyn";2023-09-22T07:56:29.983Z;-68.729;-21.312;114.0;4.3;"mb";"Chile-Bolivia Border Region";"cleusa";M
+"usp2023sosy";2023-09-22T05:07:14.054Z;-87.262;11.796;40.0;4.6;"mb";"Near Coast of Nicaragua";"cleusa";M
+"usp2023sond";2023-09-22T02:11:56.051Z;-74.376;-8.785;148.0;4.7;"mb";"Peru-Brazil Border Region";"jroberto";M
