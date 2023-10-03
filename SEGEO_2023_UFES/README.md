@@ -1,84 +1,55 @@
-# Desvendando Python: Uma Jornada de 40 Minutos
+# Sismologia e Python
+## Introdução prática ao processamento de dados sismológicos 
 
-## Resumo:
-Python é uma linguagem de programação popular, pois sua versatilidade permite que ela seja utilizada em uma série de casos, como aprendizado de máquinas, construção de sites, automação de tarefas e análise de dados. Devido à proximidade com a linguagem humana, ela é utilizada por usuários experientes e iniciantes. A palestra oferecerá aos participantes uma visão abrangente e acessível do mundo da programação utilizando a linguagem Python. Com duração de aproximadamente 40 minutos, a apresentação buscará atender aos iniciantes, porém aqueles com algum conhecimento prévio também serão abarcados  na palestra, principalmente na resolução de exemplos. A demonstração prática abordará a escrita de programas simples em Python, como cálculos matemáticos, manipulação de "strings", tomada de decisões baseadas em condições e a utilização da biblioteca Pandas, criada para a manipulação e análise de dados na forma de tabelas numéricas e séries temporais. Além disso, abordaremos conceitos introdutórios de reutilização e organização eficiente de códigos. Encoraja-se que os alunos levem o computador pessoal para o auditório, as demonstrações práticas serão realizadas na plataforma Google Colab, que é uma ferramenta gratuita para escrever e executar códigos em Python sem complicações.
+### Objetivos do minicurso:
+> <p> :mortar_board: Fornecer aos alunos uma compreensão dos princípios fundamentais da Sismologia e da análise de sinais sísmicos, capacitar os alunos a manipular dados sísmicos através da linguagem de programação multiplataforma Python. Secundariamente, este curso tem como objetivos apresentar a Rede Sismográfica Brasileira, os principais bancos de dados e pacotes computacionais em Python que são utilizados no processamento de dados sismológicos.</p>
 
-## Material da palestra:
+### Palestrante:
+> <p> :guardsman: Diogo Luiz de Oliveira Coelho.</p>
+
+### Aulas:
+> <p> :mortar_board: Palestras com duração de 2 horas, incluindo teoria e análise de casos;  </p>
+> <p> :computer: Exercícios práticos com duração de 6 horas,incluindo introdução ao python, análise de sinais e manipulação de dados. </p>
+> <p> :hourglass_flowing_sand: 03/10/2023 (manhã e tarde). </p>
+
+### Local:
+> <p> :school: Universidade Federal do Espírito Santo, Alegre-ES. </p>
+
+### Plano de Curso:
+<p> :earth_americas: Introdução à Sismologia </p>
+> <p> Definição de sismologia e de conceitos-chave e aplicações; </p>
+> <p> Tipos de ondas sísmicas (P, S e ondas de superfície);</p>
+> <p> Propriedades das ondas sísmicas;</p>
+> <p> Velocidade de propagação das ondas sísmicas.</p>
+
+<p> :globe_with_meridians: Sismicidade Global e Redes Sismográficas </p>
+> <p> Distribuição dos terremotos no mundo;
+> <p> Rede Sismográfica Brasileira;
+> <p> Principais bancos de dados sismológicos globais.
+
+<p> :computer: Processamento básico de sinais em python </p>
+> <p> Introdução ao Python; </p>
+> <p> Manipulação de formas de onda; </p>
+> <p> Operações básicas de processamento; </p>
+> <p> Espectrogramas e análise de sinais; </p>
+> <p> Visualização eficiente dos dados. </p>
+
+
+### Materiais e Recursos:
+
+#### Exercícios práticos:
 
 -  Introdução ao Python:
 <a href="https://colab.research.google.com/drive/1SEMppCCf4vN1NVXEUUN_6oqihktSG9nz?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
+-  Introdução ao Obspy:
+<a href="https://drive.google.com/file/d/1yK35FqNoJcxAG8v_1q0ji1bcVUtLNdR7/view?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 
-_curriculum vitae_:
+#### Livros didáticos:
+- Igel, Heiner (2016): Computational Seismology - A Practical Introduction;
+- Seth Stein, Michael Wysession (2002): An Introduction to Seismology, Earthquakes and Earth Structure;
+- Peter Bormann (2012): New Manual of Seismological Observatory Practice (NMSOP-2).
 
-# Diogo Luiz de Oliveira Coelho
-```
-Programa de Pesquisa e Pós-Graduação em Geodinâmica e Geofísica (PPGG)
-Universidade Federal do Rio Grande do Norte, Centro de Ciências Exatas
-Campus Universitário, Lagoa Nova, 59072970
-Natal, RN - Brazil
-```
-
-
-### RESEARCH INTERESTS:  
-
-> <p> :earth_americas: Earth Structure </p>
-> <p> :globe_with_meridians: Tectonics </p>
-> <p> :ocean: Seismic Ambient Noise </p>
-> <p> :mag_right: Seismic Data Analysis </p>
-
-
-### EDUCATION:
-
-#### Ph.D. in Geophysics 
-
-> <p> :hourglass_flowing_sand: 2015 - 2019</p>
-> <p> :school: Universidade Federal do Rio Grande do Norte, UFRN, Brazil.</p>
-> <p> :mortar_board: Arcabouço Crustal e Mantélico da Bacia do Parnaíba através de Funções do Receptor e Dispersão de Ondas de Superfície: Implicações Geodinâmicas para Subsidência Cratônica.</p>
-> <p> :guardsman: Jordi Julià Casas.</p>
-
-#### M.Sc in Geophysics
-
-> <p> :hourglass_flowing_sand: 2013 - 2015</p>
-> <p> :school: Observatório Nacional, ON, Brazil.</p>
-> <p> :mortar_board: Análise da Estrutura Crustal na Faixa Ribeira (entre as Províncias do Cráton São Francisco e da Bacia do Paraná) utilizando Métodos Sismológicos.</p>
-> <p> :guardsman: Stéphane Gérard Martial Drouet.</p>
-> <p> :guardsman: Bruno Yann Nicolas Goutorbe.</p>
-
-#### Bachelor’s Degree in Geology
-
-> <p>:hourglass_flowing_sand: 2007 - 2012 </p>
-> <p> :school: Universidade Federal do Espírito Santo, UFES, Brazil.</p>
-> <p> :mortar_board: Caracterização Estrutural e Petrológica dos Escarnitos da Região de Itaóca Pedra - ES.</p>
-> <p> :guardsman: Roberto Sacks de Campos.</p>
-
-
-### PUBLICATIONS
-
-- **COELHO, D. L. O.** ; Julià, J. ; TRIBALDOS, V. R. ; WHITE, N. .Deep crustal architecture of the Parnaíba basin of NE Brazil from receiver function analysis: implications for basin subsidence. GEOLOGICAL SOCIETY SPECIAL PUBLICATION, v. 472, p. SP472.8, **2018**. [link](https://sp.lyellcollection.org/content/specpubgsl/early/2018/05/15/SP472.8.full.pdf)
-
-- GOUTORBE, B.; **DE OLIVEIRA COELHO, D. L.**;DROUET, S. .Rayleigh wave group velocities at periods of 6-23 s across Brazil from ambient noise tomography. Geophysical Journal International, v. 203, p. 869-882, **2015**. [link](https://academic.oup.com/gji/article-pdf/203/2/869/5872301/ggv343.pdf)
-
-
-### GRANTS
-
-> **2015 - 2019** Rio Grande do Norte Research Foundation (FUNPEC) - PhD Research
-
-> **2013 - 2015** National Council of Scientific Researches (CNPq) - Masters Research
-
-> **2011 - 2012** Espírito Santo Research Foundation (FCAA) - Undergraduate Research
-
-
-### LANGUAGES
-
-> <p> Portuguese - Native language </p>
-> <p> English - Fluent </p>
-> <p> Spanish - Advanced </p>
-> <p> French - Beginner </p>
-  
-
-### COMPUTING SKILLS
-
-> <p> :computer: Linux, Windows </p>
-> <p> :musical_keyboard: Python </p>
-> <p> :octocat:  Latex, OpenOffice, Github, Google Docs </p>
+#### Material Complementar:
+- Seismo-Live:  uma plataforma interativa de aprendizagem on-line para sismologia [link](https://seismo-live.github.io/tree/index.html)
+- Curso de Verão de 2016 do IAG-USP. [link](https://github.com/leouieda/verao2016/blob/master/)
