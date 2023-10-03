@@ -17,22 +17,22 @@
 
 ### Plano de Curso:
 > <p> :earth_americas: Introdução à Sismologia </p>
-> > <p> Definição de sismologia e de conceitos-chave e aplicações; </p>
-> > <p> Tipos de ondas sísmicas (P, S e ondas de superfície); </p>
-> > <p> Propriedades das ondas sísmicas; </p>
-> > <p> Velocidade de propagação das ondas sísmicas. </p>
+>> <p> Definição de sismologia e de conceitos-chave e aplicações; </p>
+>> <p> Tipos de ondas sísmicas (P, S e ondas de superfície); </p>
+>> <p> Propriedades das ondas sísmicas; </p>
+>> <p> Velocidade de propagação das ondas sísmicas. </p>
 
 > <p> :globe_with_meridians: Sismicidade Global e Redes Sismográficas </p>
-> > <p> Distribuição dos terremotos no mundo; </p>
-> > <p> Rede Sismográfica Brasileira; </p>
-> > <p> Principais bancos de dados sismológicos globais. </p>
+>> <p> Distribuição dos terremotos no mundo; </p>
+>> <p> Rede Sismográfica Brasileira; </p>
+>> <p> Principais bancos de dados sismológicos globais. </p>
 
 > <p> :computer: Processamento básico de sinais em python </p>
-> > <p> Introdução ao Python; </p>
-> > <p> Manipulação de formas de onda; </p>
-> > <p> Operações básicas de processamento; </p>
-> > <p> Espectrogramas e análise de sinais; </p>
-> > <p> Visualização eficiente dos dados. </p>
+>> <p> Introdução ao Python; </p>
+>> <p> Manipulação de formas de onda; </p>
+>> <p> Operações básicas de processamento; </p>
+>> <p> Espectrogramas e análise de sinais; </p>
+>> <p> Visualização eficiente dos dados. </p>
 
 
 ### Materiais e Recursos:
